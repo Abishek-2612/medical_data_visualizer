@@ -51,7 +51,3 @@ Analyzed medical examination data to visualize the relationship between **cardio
 **Made with love by Abishek**  
 Feel free to reach out!
 
-
-**Certification Progress*x] Project 1 – Mean-Variance-Standard Deviation Cx] Project 2 – Demographic Data Analyzer  
-- [x] Project 3 – Medical Data Visualizer  
-- [ ] Proj
