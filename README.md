@@ -1,6 +1,5 @@
 # Medical Data Visualizer  
 **freeCodeCamp – Data Analysis with Python Certification**  
-**Project 3 of 5**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18UYCsTBXxE3qu22ladwAY3Se7TIXMyM-?usp=sharing)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
